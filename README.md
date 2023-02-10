@@ -1,2 +1,2 @@
 # Smartcities2023
-Repository for project delovery
+Repository for code sharing
